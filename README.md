@@ -1,4 +1,4 @@
-### 👋 Hey!
+<p align="center"> ### 👋 Hey! </p>
 
 <p align="center"><b>languages i work with</b></p>
 
