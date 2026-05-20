@@ -1,8 +1,12 @@
 <p align="center"><h1 align="center">Hey!! (˶˃𐃷˂˶)</h1></p>
 
-<p align="center"><b>languages i work with</b></p>
+<>
 
-<p align="center"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4cc8b62c-e5b5-4ad6-b0d1-29eb74c85024" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2569e213-c381-4800-b805-98fbbf026a74" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d9ba5dee-b19c-4d33-b5e0-069878dd540d" /></p>
+<p align="center"><b>languages i work with!!</b></p>
+
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#E14E1D" rx="60"/><path fill="#fff" d="M48 38L56.6098 134.593H167.32L163.605 176.023L127.959 185.661L92.38 176.037L90.0012 149.435H57.9389L62.5236 200.716L127.951 218.888L193.461 200.716L202.244 102.655H85.8241L82.901 69.9448H205.041H205.139L208 38H48Z"/><path fill="#EBEBEB" d="M128 38H48L56.6098 134.593H128V102.655H85.8241L82.901 69.9448H128V38Z"/><path fill="#EBEBEB" d="M128 185.647L127.959 185.661L92.38 176.037L90.0012 149.435H57.9388L62.5236 200.716L127.951 218.888L128 218.874V185.647Z"/></svg>
+</p>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitizo&theme=dark" alt="hitizo" /></p>
