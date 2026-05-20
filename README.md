@@ -4,9 +4,8 @@
 
 <p align="center"><b>languages i work with!!</b></p>
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+
 
 <hr>
 
