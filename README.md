@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,python" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,python,cs,lua" />
   </a>
 </p>
 
@@ -14,8 +14,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,vscode" />
+    <img src="https://skillicons.dev/icons?i=arch,vscode,git,github" />
   </a>
 </p>
+
+<hr>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitizo&theme=dark" alt="hitizo" /></p>
