@@ -13,7 +13,6 @@
 <p align="center"><b>software i use!</b></p>
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,arch,vscode)](https://skillicons.dev)
 </p>
 
 
