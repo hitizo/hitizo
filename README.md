@@ -1,4 +1,4 @@
-<p align="center"><h1>Hey!! (˶˃𐃷˂˶)</h1></p>
+<p align="center"><h1 align="center">Hey!! (˶˃𐃷˂˶)</h1></p>
 
 <p align="center"><b>languages i work with</b></p>
 
