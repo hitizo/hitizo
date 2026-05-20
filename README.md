@@ -5,8 +5,15 @@
 <p align="center"><b>languages i work with!!</b></p>
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#E14E1D" rx="60"/><path fill="#fff" d="M48 38L56.6098 134.593H167.32L163.605 176.023L127.959 185.661L92.38 176.037L90.0012 149.435H57.9389L62.5236 200.716L127.951 218.888L193.461 200.716L202.244 102.655H85.8241L82.901 69.9448H205.041H205.139L208 38H48Z"/><path fill="#EBEBEB" d="M128 38H48L56.6098 134.593H128V102.655H85.8241L82.901 69.9448H128V38Z"/><path fill="#EBEBEB" d="M128 185.647L127.959 185.661L92.38 176.037L90.0012 149.435H57.9388L62.5236 200.716L127.951 218.888L128 218.874V185.647Z"/></svg>
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/33e38a03-262e-4200-b1be-72159eeef620" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/6f55e1a1-53b9-46ca-8be3-d2b7929a6776" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/38404979-ce50-438d-843d-c70efad5330d" />
 </p>
 
+<hr>
+
+<p align="center"><b>softare i use!</b></p>
+
+<p align="center">
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/da4416c0-2ff1-4249-a699-b9bfe948e0d8" />
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitizo&theme=dark" alt="hitizo" /></p>
