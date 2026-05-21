@@ -1,5 +1,7 @@
 <p align="center"><h1 align="center">Hey!! (˶˃𐃷˂˶)</h1></p>
 
+<div class="tenor-gif-embed" data-postid="4611265448682406758" data-share-method="host" data-aspect-ratio="24" data-width="100%"><a href="https://tenor.com/view/divider-gif-4611265448682406758">Divider Sticker</a>from <a href="https://tenor.com/search/divider-stickers">Divider Stickers</a></div>
+
 <p align="center">hi!! i'm hitizo ⋆˚꩜｡<br>
 <br>
 i'm a self taught programmer who likes linux, and rice<br>
@@ -12,7 +14,7 @@ i'm a self taught programmer who likes linux, and rice<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,bash,python,lua" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bash,python,lua" />
   </a>
 </p>
 
@@ -23,6 +25,7 @@ i'm a self taught programmer who likes linux, and rice<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,linux,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=unity," />
   </a>
 </p>
 
