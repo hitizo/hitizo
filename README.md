@@ -1,5 +1,6 @@
 <p align="center"><h1 align="center">Hey!! (˶˃𐃷˂˶)</h1></p>
 
+<img width="480" height="20" alt="image" src="https://github.com/user-attachments/assets/2ca2ca1d-03df-47c4-bf81-8dac74728f38" /><img width="480" height="20" alt="image" src="https://github.com/user-attachments/assets/884d81dc-be31-4edb-87cf-503cd284de3d" />
 
 
 <p align="center">hi!! i'm hitizo ⋆˚꩜｡<br>
