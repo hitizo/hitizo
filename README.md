@@ -1,9 +1,9 @@
 <p align="center"><h1 align="center">Hey!! (˶˃𐃷˂˶)</h1></p>
 
-<p align="center">hi!! i'm hitizo ⋆˚꩜｡
-
-i'm a self taught programmer who likes linux, and rice
-
+<p align="center">hi!! i'm hitizo ⋆˚꩜｡<br>
+<br>
+i'm a self taught programmer who likes linux, and rice<br>
+<br>
 ꒰ she.ᐟthey ꒱ </p>
 
 <p align="center"><b>my skills!!</b></p>
