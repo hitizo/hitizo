@@ -4,7 +4,9 @@
 <br>
 i'm a self taught programmer who likes linux, and rice<br>
 <br>
-꒰ she.ᐟthey ꒱ </p>
+꒰ she/they ꒱ </p>
+
+<hr>
 
 <p align="center"><b>my skills!!</b></p>
 
