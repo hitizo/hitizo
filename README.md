@@ -5,9 +5,6 @@
 i'm a self taught programmer who likes linux, and rice<br>
 <br>
 ꒰ she/they ꒱ </p>
-<br>
-<img width="680" height="315" alt="image" src="https://github.com/user-attachments/assets/c3d31e52-06f6-4f7a-bf1e-8248634eed9c" />
-
 
 <hr>
 
