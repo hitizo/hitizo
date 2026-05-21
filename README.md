@@ -1,6 +1,6 @@
 <p align="center"><h1 align="center">Hey!! (˶˃𐃷˂˶)</h1></p>
 
-<div class="tenor-gif-embed" data-postid="4611265448682406758" data-share-method="host" data-aspect-ratio="24" data-width="100%"><a href="https://tenor.com/view/divider-gif-4611265448682406758">Divider Sticker</a>from <a href="https://tenor.com/search/divider-stickers">Divider Stickers</a></div>
+<div class="tenor-gif-embed" data-postid="4611265448682406758" data-share-method="host" data-aspect-ratio="24" data-width="100%"><a href="https://tenor.com/view/divider-gif-4611265448682406758">Divider Sticker</a>from <a href="https://tenor.com/search/divider-stickers">Divider Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">hi!! i'm hitizo ⋆˚꩜｡<br>
 <br>
