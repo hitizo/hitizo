@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/15821950-7bc7-4b78-b560-d78c17696292" />
-</p>
-
 <p align="center"><h1 align="center">Hey!! (˶˃𐃷˂˶)</h1></p>
 
 <p align="center">hi!! i'm hitizo ⋆˚꩜｡<br>
