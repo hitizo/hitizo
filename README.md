@@ -12,7 +12,7 @@ i'm a self taught programmer who likes linux, and rice<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,python,lua" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,bash,python,lua" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ i'm a self taught programmer who likes linux, and rice<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,vscode,github,git" />
   </a>
 </p>
 
