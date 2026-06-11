@@ -3,8 +3,7 @@
 <p align="center">hi!! i'm hitizo ⋆˚꩜｡<br>
 <br>
 i'm a self taught programmer who likes linux, and rice<br>
-<br>
-꒰ she/they ꒱ </p>
+<br></p>
 
 <hr>
 
