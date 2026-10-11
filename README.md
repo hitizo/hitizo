@@ -14,16 +14,6 @@ i'm a self taught programmer who likes linux, and rice<br>
     <img src="https://skillicons.dev/icons?i=html,css,bash,python" />
   </a>
 </p>
-
-<hr>
-
-<p align="center"><b>software i use!</b></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=unity," />
-  </a>
 </p>
 
 <hr>
